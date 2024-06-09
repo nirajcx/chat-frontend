@@ -8,7 +8,7 @@ import closeIcon from '../../images/closeIcon.png';
 
 let socket;
 
-const ENDPOINT = "https://chat-backend-7ong.onrender.com/:4500/";
+const ENDPOINT = "https://chat-backend-7ong.onrender.com/";
 
 const Chat = () => {
     const [id, setId] = useState("");
